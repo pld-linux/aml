@@ -7,7 +7,7 @@ Summary(pl.UTF-8):	Biblioteka pętli głównej Andri's Main Loop
 Name:		aml
 Version:	0.3.0
 Release:	1
-License:	MIT
+License:	ISC
 Group:		Libraries
 #https://github.com/any1/aml/releases
 Source0:	https://github.com/any1/aml/archive/v%{version}/%{name}-%{version}.tar.gz
